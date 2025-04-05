@@ -12460,6 +12460,12 @@
     githubId = 762421;
     name = "Pierre Thierry";
   };
+  kernelpanicaus = {
+    email = "KernelPanicAUS@users.noreply.github.com";
+    github = "KernelPanicAUS";
+    githubId = 1765054;
+    name = "Thomas Khalil";
+  };
   keto = {
     github = "TheRealKeto";
     githubId = 24854941;
